@@ -33,8 +33,8 @@
 ![Screenshot 2023-11-22 094024](https://github.com/tamilh45/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/150312761/1d5ffdde-b317-4785-a5fc-0ae58422c660)
 ![Screenshot 2023-11-22 094039](https://github.com/tamilh45/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/150312761/27c1ebed-2b9e-4bb6-8a59-167497d768af)
 
-### Name: SASINTHRA S
-### Register Number: 23005130
+### Name: TAMIL PAVALAN M
+### Register Number: 23013740
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
